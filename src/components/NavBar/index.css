@@ -1,0 +1,23 @@
+.nav-bar {
+  background-color: #ffffff33;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  padding-left: 60px;
+  padding-right: 60px;
+  color: #ffffff;
+}
+.nav-card {
+  display: flex;
+  align-items: center;
+}
+.nav-card1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 25%;
+}
+.para143 {
+  font-size: 23px;
+}
